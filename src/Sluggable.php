@@ -2,7 +2,7 @@
 
 namespace PawelMysior\Sluggable;
 
-use Cviebrock\EloquentSluggable\Sluggable AS CviebrockSluggable;
+use Cviebrock\EloquentSluggable\Sluggable as CviebrockSluggable;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
 
