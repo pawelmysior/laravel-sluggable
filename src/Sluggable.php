@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Traits;
+namespace PawelMysior\Sluggable;
 
 use Cviebrock\EloquentSluggable\Sluggable AS CviebrockSluggable;
 use Illuminate\Database\Eloquent\Builder;
